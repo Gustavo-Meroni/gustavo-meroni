@@ -27,6 +27,8 @@ Atualmente, trabalho principalmente com Next.js e tenho me dedicado ao aprendiza
 - 📘 [Alura Books](https://github.com/Gustavo-Meroni/alura-books): Projeto de e-commerce de livros com layout moderno, responsivo e semântico, focado em boas práticas de HTML e CSS.
 - 🎬 [Alura+](https://github.com/Gustavo-Meroni/projeto-alura-plus): Landing page promocional responsiva com foco em design moderno e componentização de layout.
 - 🎹 [Alura MIDI](https://github.com/Gustavo-Meroni/alura-midi): Aplicação interativa que simula um teclado musical com sons e interações via eventos JavaScript.
+- 🚀 [Ignite Rocketseat](https://github.com/Gustavo-Meroni/ignite-rocketseat): Projeto de feed social desenvolvido com React, Vite e CSS Modules durante o curso da Rocketseat, com funcionalidades de comentários, curtidas e exclusão.
+
 
 ---
 
